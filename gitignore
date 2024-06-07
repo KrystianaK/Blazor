@@ -1,0 +1,32 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder-based project configuration files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+
+# Others
+.vscode/
+.vs/
